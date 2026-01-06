@@ -1,0 +1,42 @@
+{
+  "name": "ROOT5 Token List",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "name": "ROOT5DAO",
+      "symbol": "ROOT5",
+      "address": "0xc1b958ddf560ab592831b65dfc6a7f63b2efe07e",
+      "chainId": 1,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Yuseless-1/root5-evm-lz/main/logo/root5logo.png"
+    },
+    {
+      "name": "ROOT5DAO",
+      "symbol": "ROOT5",
+      "address": "0xb062C2505b5a9d80B5718845BdA75fa3c267ce0e",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Yuseless-1/root5-evm-lz/main/logo/root5logo.png"
+    },
+    {
+      "name": "ROOT5DAO",
+      "symbol": "ROOT5",
+      "address": "0xb062c2505b5a9d80b5718845bda75fa3c267ce0e",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Yuseless-1/root5-evm-lz/main/logo/root5logo.png"
+    },
+    {
+      "name": "ROOT5DAO",
+      "symbol": "ROOT5",
+      "address": "0xb062c2505b5a9d80b5718845bda75fa3c267ce0e",
+      "chainId": 8453,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Yuseless-1/root5-evm-lz/main/logo/root5logo.png"
+    }
+  ]
+}
